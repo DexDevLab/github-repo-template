@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" height="22" alt="Markdown"/></a>
+<a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" height="22" alt="Markdown"/></a>
 
 <a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg?style=plastic" height="22" alt="Maintenance-actively-developed"/></a>
 <a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/github-repo-template?style=plastic" height="22" alt="LastCommit"></a>
@@ -130,6 +130,10 @@ Para usar a aplicação, crie um arquivo '.env' com as seguintes variáveis de a
 </a>
 
 <br>
+
+### v1.0.1-230309
+
+- Ajuste no estilo de layout dos badges
 
 ### v1.0.0-230309
 

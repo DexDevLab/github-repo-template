@@ -2,7 +2,7 @@
 
 # Virtualization / Deploy
 
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" height="22" alt="Docker"/></a>
-<a href="https://learn.microsoft.com/pt-br/windows-server/virtualization/hyper-v/hyper-v-technology-overview"><img src="https://img.shields.io/badge/HyperV-0078D6?style=flat&logo=windows&logoColor=white" height="22" alt="Hyper-V"/></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="22" alt="Docker"/></a>
+<a href="https://learn.microsoft.com/pt-br/windows-server/virtualization/hyper-v/hyper-v-technology-overview"><img src="https://img.shields.io/badge/HyperV-0078D6?style=plastic&logo=windows&logoColor=white" height="22" alt="Hyper-V"/></a>
 
 </div>
