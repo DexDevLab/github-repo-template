@@ -16,7 +16,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/github-repo-template?style=plastic" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/github-repo-template?style=plastic" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-1.0.0-140126?style=plastic" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-1.0.1-140126?style=plastic" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template?&style=plastic" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
@@ -130,6 +130,10 @@ Para usar a aplicação, crie um arquivo '.env' com as seguintes variáveis de a
 </a>
 
 <br>
+
+### v1.0.2-230309
+
+- Atualização da documentação
 
 ### v1.0.1-230309
 
