@@ -16,13 +16,12 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/github-repo-template?style=plastic" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/github-repo-template?style=plastic" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-1.0.3-140126?style=plastic" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-1.0.4-140126?style=plastic" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template?&style=plastic" height="22" alt="License"></a>
 
-<!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
 || [Conteúdo](#section-conteudo) || [Instruções](#section-instrucoes) || [Notas de versão](#section-changelog) ||
-<!-- || [Variáveis de Ambiente](#section-vars) || [Notas de versão](#section-changelog) || [Autores](#section-autores) || [Contato](#section-contato) || [Licença](#section-licenca) || -->
-|| [Notas de versão](#section-changelog) || [Autores](#section-autores) || [Contato](#section-contato) || [Licença](#section-licenca) ||
+
+|| [Autores](#section-autores) || [Contato](#section-contato) || [Licença](#section-licenca) ||
 
 </div>
 
@@ -40,50 +39,6 @@ Este repositório tem como objetivo apresentar um template para criar facilmente
 Além disso, contém referências para badges, arquivos de licença e modelos de README.
 
 <hr>
-
-<!-- <a name="section-caracteristicas">
-
-## Características
-
-</a>
-
-<br>
-
-- Lorem ipsum dolor sit amet;
-
-<hr> -->
-
-<!-- <a name="section-stack">
-
-## Stack
-
-</a>
-
-<br>
-
-- **Linguagem Principal:** [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- **Linguagens de Marcação e Estilo:** [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [SASS](https://sass-lang.com/documentation)
-- **Framework Principal:** [Node.js](https://nodejs.org/en/docs/)
-- **Framework estrutural:** [Next.js](https://nextjs.org/docs/getting-started)
-- **Framework de design:** [Chakra UI](https://chakra-ui.com/docs/getting-started)
-- **Gerenciador de Bibliotecas:** [Yarn](https://yarnpkg.com/getting-started)
-- **Bibliotecas:** Para uma lista completa de bibliotecas e dependências nos mais variados escopos, conferir o arquivo [package.json](https://github.com/dexdevlab/github-repo-template/blob/main/package.json).
-
-<hr> -->
-
-<!-- <a name="section-documentacao">
-
-## Documentação
-
-</a>
-
-<br>
-
-- [Lorem](https://miro.com/app/board/uXjdfgsdgVPWCiaDo=/?share_link_id=713196550342)
-
-Documentação adicional pode ser encontrada [aqui](https://dexdevlab.github.io/github-repo-template/).
-
-<hr> -->
 
 <a name="section-instrucoes">
 
@@ -107,22 +62,6 @@ git clone https://github.com/dexdevlab/github-repo-template.git
 
 <hr>
 
-<!-- <a name="section-vars">
-
-### Variáveis de Ambiente
-
-</a>
-
-<br>
-
-Para usar a aplicação, crie um arquivo '.env' com as seguintes variáveis de ambiente:
-
-| Variável      | Uso   |
-|---------------|-------|
-|`DATABASE_URL` | Lorem ipsum dolor sit amet | |
-
-<hr> -->
-
 <a name="section-changelog">
 
 ## Notas de versão
@@ -130,6 +69,10 @@ Para usar a aplicação, crie um arquivo '.env' com as seguintes variáveis de a
 </a>
 
 <br>
+
+### v1.0.4-230310
+
+- Atualização da documentação
 
 ### v1.0.3-230309
 
