@@ -1,4 +1,4 @@
-<h1 align="center">github-repo-template</h1>
+<h1 align="center">Github Repository Template</h1>
 <p align=center><i align="center">Template de Repositório do Github com arquivos essenciais e modelos customizáveis</i></p>
 
 <br>
@@ -16,7 +16,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/github-repo-template?style=plastic" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/github-repo-template?style=plastic" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-1.0.4-140126?style=plastic" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-1.1.0-140126?style=plastic" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template?&style=plastic" height="22" alt="License"></a>
 
 || [Conteúdo](#section-conteudo) || [Instruções](#section-instrucoes) || [Notas de versão](#section-changelog) ||
@@ -69,6 +69,11 @@ git clone https://github.com/dexdevlab/github-repo-template.git
 </a>
 
 <br>
+
+### v1.1.0-230411
+
+- Inclusão de espaço para thumbnail com centralização e ajustes de tamanho e proporção
+- Atualização da documentação
 
 ### v1.0.4-230310
 

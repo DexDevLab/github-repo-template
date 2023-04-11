@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./assets/thumb.png" height='300px' width='600px' alt="Print">
+</div>
+
 <h1 align="center">github-repo-template</h1>
 <p align=center><i align="center">Template de repositório para o Github</i></p>
 
