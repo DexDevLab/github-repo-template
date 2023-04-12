@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg?style=plastic" height="22" alt="Maintenance-actively-developed"/></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg" height="22" alt="Maintenance-actively-developed"/></a>
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-passively--maintained-yellowgreen.svg?style=plastic" height="22" alt="Maintenance-passively-maintained"/></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-passively--maintained-yellowgreen.svg" height="22" alt="Maintenance-passively-maintained"/></a>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-as--is-yellow.svg?style=plastic" height="22" alt="Maintenance-as-is"/></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-as--is-yellow.svg" height="22" alt="Maintenance-as-is"/></a>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-experimental-blue.svg?style=plastic" height="22" alt="Maintenance-experimental"/></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-experimental-blue.svg" height="22" alt="Maintenance-experimental"/></a>
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-looking--for--maintainer-orange.svg?style=plastic" height="22" alt="Maintenance-looking-for-maintainer"/></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-looking--for--maintainer-orange.svg" height="22" alt="Maintenance-looking-for-maintainer"/></a>
 
 </div>
 
@@ -60,6 +60,6 @@
 
 <div align="center">
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-deprecated-red.svg?style=plastic" height="22" alt="Maintenance-deprecated"/></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-deprecated-red.svg" height="22" alt="Maintenance-deprecated"/></a>
 
 </div>

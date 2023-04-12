@@ -9,29 +9,29 @@
 
 <div align="center">
 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="22" alt="CSS3"/></a>
-<a href="https://html.com"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="22" alt="HTML5"/>
-<a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" height="22" alt="SASS"/></a>
-<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="22" alt="JavaScript"/></a>
-<a href="https://www.java.com/pt-BR/"><img src="https://badges.aleen42.com/src/java.svg?style=plastic" height="22" alt="Java"/></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" height="22" alt="CSS3"/></a>
+<a href="https://html.com"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" height="22" alt="HTML5"/>
+<a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white" height="22" alt="SASS"/></a>
+<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" height="22" alt="JavaScript"/></a>
+<a href="https://www.java.com/pt-BR/"><img src="https://badges.aleen42.com/src/java.svg" height="22" alt="Java"/></a>
 
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" height="22" alt="NodeJS"/></a>
-<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" height="22" alt="Bootstrap"/></a>
-<a href="https://jquery.com"><img src="https://img.shields.io/badge/JQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" height="22" alt="jQuery"/></a>
-<a href="https://gulpjs.com"><img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?style=plastic&logo=gulp&logoColor=white" height="22" alt="Gulp"/></a>
-<a href="https://babeljs.io"><img src="https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black" height="22" alt="Babel"/></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="22" alt="NodeJS"/></a>
+<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" height="22" alt="Bootstrap"/></a>
+<a href="https://jquery.com"><img src="https://img.shields.io/badge/JQuery-%230769AD.svg?logo=jquery&logoColor=white" height="22" alt="jQuery"/></a>
+<a href="https://gulpjs.com"><img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?logo=gulp&logoColor=white" height="22" alt="Gulp"/></a>
+<a href="https://babeljs.io"><img src="https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black" height="22" alt="Babel"/></a>
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg?style=plastic" height="22" alt="Maintenance-actively-developed"/></a>
-<a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/github-repo-template?style=plastic" height="22" alt="LastCommit"></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg" height="22" alt="Maintenance-actively-developed"/></a>
+<a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/github-repo-template" height="22" alt="LastCommit"></a>
 <a href=""><img src="https://snyk.io/test/github/dexdevlab/github-repo-template/badge.svg" height="22" alt="Snyk"/></a>
 
-<a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/github-repo-template?style=plastic" height="22" alt="RepoSize"/></a>
-<a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/github-repo-template?style=plastic" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/github/contributors/frtechdev/github-repo-template?style=plastic" height="22" alt="Contributors"></a>
+<a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/github-repo-template" height="22" alt="RepoSize"/></a>
+<a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/github-repo-template" height="22" alt="CodeSize"/></a>
+<a href=""><img src="https://img.shields.io/github/contributors/frtechdev/github-repo-template" height="22" alt="Contributors"></a>
 
-<a href=""><img src="https://img.shields.io/github/forks/frtechdev/github-repo-template?style=plastic" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-1.0.0-140126?style=plastic" height="22" alt="Version"></a>
-<a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template?&style=plastic" height="22" alt="License"></a>
+<a href=""><img src="https://img.shields.io/github/forks/frtechdev/github-repo-template" height="22" alt="Fork"></a>
+<a href=""><img src="https://img.shields.io/badge/version-1.0.0-140126" height="22" alt="Version"></a>
+<a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template" height="22" alt="License"></a>
 
 || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) ||
 
