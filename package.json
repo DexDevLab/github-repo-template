@@ -1,6 +1,6 @@
 {
   "name": "github-repo-template",
-  "version": "v1.2.0-230412",
+  "version": "v1.2.1-230412",
   "license": "MIT",
   "description": "Template de Repositório do Github com arquivos essenciais e modelos customizáveis.",
   "private": true,
