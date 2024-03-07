@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./assets/thumb.jpg" height='300px' width='600px' alt="thumb">
+</div>
+
 <h1 align="center">Github Repository Template</h1>
 <p align=center><i align="center">Template de Repositório do Github com arquivos essenciais e modelos customizáveis</i></p>
 
@@ -6,6 +10,7 @@
 <div align="center">
 
 <a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" height="22" alt="Markdown"/></a>
+<a href="https://docs.github.com/pt/actions"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" height="22" alt="GithubActions"/></a>
 
 <a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg" height="22" alt="Maintenance-actively-developed"/></a>
 <a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/github-repo-template" height="22" alt="LastCommit"></a>
@@ -16,7 +21,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/github-repo-template" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/github-repo-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-1.2.1-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/github/v/release/dexdevlab/github-repo-template" height="22" alt="Version"/></a>
 <a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template?&" height="22" alt="License"></a>
 
 || [Conteúdo](#section-conteudo) || [Instruções](#section-instrucoes) || [Notas de versão](#section-changelog) ||
@@ -36,7 +41,7 @@
 <br>
 
 Este repositório tem como objetivo apresentar um template para criar facilmente a estrutura básica de qualquer repositório com o mínimo de documentação, organização e automação possíveis, respeitando as regras essenciais de linting e os critérios para manipular os dados de um repositório.
-Além disso, contém referências para badges, arquivos de licença e modelos de README.
+Além disso, contém referências para badges, arquivos de licença e modelos de README, bem como scripts de automação do GitHub Actions para facilitar o trabalho do desenvolvedor durante a publicação e organização das versões e releases.
 
 <hr>
 
@@ -48,9 +53,7 @@ Além disso, contém referências para badges, arquivos de licença e modelos de
 
 <br>
 
-### Utilizando o repositório como projeto
-
-</a>
+### Utilizando o repositório como projeto para testar templates e scripts
 
 1 - Faça um git clone ou o download do repositório, da forma que preferir
 
@@ -59,6 +62,26 @@ Além disso, contém referências para badges, arquivos de licença e modelos de
 git clone https://github.com/dexdevlab/github-repo-template.git
 
 ```
+
+<br>
+
+### Testando os scripts do GitHub Actions
+
+Você pode testar qualquer script contido no diretório ['GitHub Actions']('https://github.com/dexdevlab/github-repo-template/blob/main/templates/GitHub_Actions') colando o template
+desejado em ['.github/workflows'](https://github.com/dexdevlab/github-repo-template/blob/main/.github/workflows) e poderá ver seu funcionamento no próximo commit que você aplicar no
+seu repositório clonado.
+
+<br>
+
+### Configuração mandatória para executar os scripts
+
+É obrigatório realizar este ajuste em qualquer repositório onde deseja que seu workflow funcione, para se certificar de que ele tenha as permissões necessárias para executar suas etapas.
+
+Vá nas Configurações Gerais de Ações do repositório (`<https://github.com/><NOME_DO_USUARIO>/<NOME_DO_REPOSITORIO>/settings/actions`) e faça os seguintes ajustes:
+
+1 - Marque 'Allow all actions and reusable workflows' em 'Actions permissions'
+
+2 - Marque 'Read and write permissions' em 'Workflow permissions'
 
 <hr>
 
@@ -69,6 +92,17 @@ git clone https://github.com/dexdevlab/github-repo-template.git
 </a>
 
 <br>
+
+### v2.0.0-240307
+
+- Adição dos scripts do GitHub Actions e atualização de sintaxe dos mesmos
+- Atualização da documentação
+- Adição de scripts de limpeza do Yarn
+- Adição de script de limpeza do Git para arquivos que continuam sendo monitorados mesmo depois de desmarcados
+- Atualização do gitignore, que também pode ser usado como template
+- Alteração do badge de versão e release
+- Atualização no template de licenças e readme
+- Alteração da sintaxe do script do GitHub Actions
 
 ### v1.2.1-230412
 
@@ -114,7 +148,7 @@ git clone https://github.com/dexdevlab/github-repo-template.git
 <br>
 
 <a href="https://github.com/dexdevlab/github-repo-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dexdevlab/github-repo-template" />
+  <img alt= 'contrib' src="https://contrib.rocks/image?repo=dexdevlab/github-repo-template" />
 </a>
 
 <hr>

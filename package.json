@@ -1,10 +1,13 @@
 {
   "name": "github-repo-template",
-  "version": "v1.2.1-230412",
+  "version": "v2.0.0-240307",
   "license": "MIT",
   "description": "Template de Repositório do Github com arquivos essenciais e modelos customizáveis.",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "caniuse": "yarn upgrade --save caniuse-lite browserslist",
+    "clean": "yarn autoclean --force",
+    "git:clear": "bash cleargitcache.sh"
   }
 }

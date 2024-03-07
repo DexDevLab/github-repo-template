@@ -1,0 +1,42 @@
+# AUTO RELEASE BASED ON A TAG NAME. IT REQUIRES A TAG ALREADY CREATED. TAGS WITH "-beta" SUFFIX
+# WILL NOT BE CONSIDERED.
+
+name: Release
+
+on:
+  repository_dispatch:
+    types: [actions-release]
+
+env:
+  SUFFIX: -beta
+
+jobs:
+  release:
+    name: "Release"
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.client_payload.sha }}
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: "🏷️ Get previous tag"
+        id: get-tag
+        uses: "WyriHaximus/github-action-get-previous-tag@v1"
+        with:
+          fallback: "latest"
+      - name: "📤 Gathering release name"
+        if: ${{ !contains(steps.get-tag.outputs.tag, env.SUFFIX) }}
+        id: get-ver
+        run: |
+          ver=$(echo ${{steps.get-tag.outputs.tag}} | cut -d- -f1)
+          echo "::set-output name=ver::$ver"
+      - run: echo "${{steps.get-ver.outputs.ver}}"
+      - name: "📤 Creating Release"
+        if: ${{ !contains(steps.get-tag.outputs.tag, env.SUFFIX) }}
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          automatic_release_tag: "${{ steps.get-ver.outputs.ver }}"
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false

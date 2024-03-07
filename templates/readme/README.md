@@ -27,10 +27,10 @@
 
 <a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/github-repo-template" height="22" alt="RepoSize"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/github-repo-template" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/github/contributors/frtechdev/github-repo-template" height="22" alt="Contributors"></a>
+<a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/github-repo-template" height="22" alt="Contributors"></a>
 
-<a href=""><img src="https://img.shields.io/github/forks/frtechdev/github-repo-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-1.0.0-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/github/forks/dexdevlab/github-repo-template" height="22" alt="Fork"></a>
+<a href=""><img src="https://img.shields.io/github/v/release/dexdevlab/github-repo-template" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template" height="22" alt="License"></a>
 
 || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) ||

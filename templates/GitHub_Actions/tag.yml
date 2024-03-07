@@ -1,0 +1,21 @@
+# AUTO TAG BASED ON PUSH TO A BRANCH. REQUIRES PACKAGE.JSON WITH "version"
+# PROPERTY UNDER SEMANTIC VERSIONING.
+
+name: Tag
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: "🏷️ Tag"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Klemensas/action-autotag@stable
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          # tag_prefix: "v"
+          # tag_suffix: "b"
