@@ -1,0 +1,40 @@
+# AUTO CHROMATIC PUBLISH BASED ON A NON-BETA/TEST TAG.
+# REQUIRES PACKAGE.JSON WITH "version" PROPERTY UNDER SEMANTIC VERSIONING. ADDING
+# "-beta" SUFFIX IN THE VERSION IN "version" PROPERTY DEFINES A BETA/TEST TAG.
+# FOR ALTERNATIVES TO THIS IMPLEMENTATION, CHECK 'create_tag_and_release' FOLDER.
+
+name: "Chromatic Publish"
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  SUFFIX: -beta
+
+jobs:
+  chromatic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "✅ Checkout code"
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 0
+
+      - name: "📦 Extracting version from package.json"
+        id: get-package-version
+        uses: jaywcjlove/github-action-package@main
+
+      - name: "📜 Printing package version"
+        run: echo ${{ steps.get-package-version.outputs.version }}
+
+      - name: "⚙️ Install Dependencies"
+        if: ${{ !contains(steps.get-package-version.outputs.version, env.SUFFIX) }}
+        run: yarn install --immutable --immutable-cache --check-cache
+
+      - name: "📖​ Chromatic Setup and Run"
+        if: ${{ !contains(steps.get-package-version.outputs.version, env.SUFFIX) }}
+        uses: chromaui/action@latest
+        with:
+          projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}

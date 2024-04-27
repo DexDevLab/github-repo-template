@@ -12,8 +12,8 @@
 <a href="https://jwt.io"><img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens" height="22" alt="JWT"/></a>
 <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" height="22" alt="NextJS"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" height="22" alt="NodeJS"/></a>
-<a href="https://reactjs.org"><img src="https://img.shields.io/badge/react-black?logo=react&logoColor=white" height="22" alt="React"/></a>
-<a href="https://reactnative.dev"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="22" alt="ReactNative"/></a>
+<a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-black?logo=react&logoColor=white" height="22" alt="React"/></a>
+<a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="22" alt="ReactNative"/></a>
 <a href="https://reactrouter.com/en/main/start/overview"><img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" height="22" alt="ReactRouter"/></a>
 <a href="https://react-hook-form.com"><img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white" height="22" alt="ReactHookForm"/></a>
 <a href="https://www.chartjs.org"><img src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white" height="22" alt="ChartJS"/></a>
@@ -23,5 +23,6 @@
 <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="22" alt="TailwindCSS"/></a>
 <a href="https://tauri.app"><img src="https://img.shields.io/badge/tauri-%2320232a.svg?logo=tauri&logoColor=white" height="22" alt="Tauri"/></a>
 <a href="https://www.electronjs.org/pt/"><img src="https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white" height="22" alt="ElectronJS"/></a>
+<a href="https://storybook.js.org"><img src="https://img.shields.io/badge/Storybook-%23323330.svg?logo=storybook" height="22" alt="Storybook"/></a>
 
 </div>

@@ -11,45 +11,25 @@
 
 <a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" height="22" alt="Markdown"/></a>
 <a href="https://docs.github.com/pt/actions"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" height="22" alt="GithubActions"/></a>
-
+<br>
 <a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg" height="22" alt="Maintenance-actively-developed"/></a>
 <a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/github-repo-template" height="22" alt="LastCommit"></a>
-<a href=""><img src="https://snyk.io/test/github/dexdevlab/github-repo-template/badge.svg" height="22" alt="Snyk"/></a>
-
+<a href=""><img src="https://img.shields.io/github/v/release/dexdevlab/github-repo-template" height="22" alt="Version"/></a>
+<br>
 <a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/github-repo-template" height="22" alt="RepoSize"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/github-repo-template" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/github-repo-template" height="22" alt="Contributors"></a>
-
-<a href=""><img src="https://img.shields.io/github/forks/dexdevlab/github-repo-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/github/v/release/dexdevlab/github-repo-template" height="22" alt="Version"/></a>
 <a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template?&" height="22" alt="License"></a>
-
-|| [Conteúdo](#section-conteudo) || [Instruções](#section-instrucoes) || [Notas de versão](#section-changelog) ||
-
-|| [Autores](#section-autores) || [Contato](#section-contato) || [Licença](#section-licenca) ||
 
 </div>
 
-<hr>
-
-<a name="section-conteudo">
-
 ## Conteúdo
-
-</a>
 
 <br>
 
 Este repositório tem como objetivo apresentar um template para criar facilmente a estrutura básica de qualquer repositório com o mínimo de documentação, organização e automação possíveis, respeitando as regras essenciais de linting e os critérios para manipular os dados de um repositório.
 Além disso, contém referências para badges, arquivos de licença e modelos de README, bem como scripts de automação do GitHub Actions para facilitar o trabalho do desenvolvedor durante a publicação e organização das versões e releases.
 
-<hr>
-
-<a name="section-instrucoes">
-
 ## Instruções
-
-</a>
 
 <br>
 
@@ -58,20 +38,14 @@ Além disso, contém referências para badges, arquivos de licença e modelos de
 1 - Faça um git clone ou o download do repositório, da forma que preferir
 
 ```bash
-
 git clone https://github.com/dexdevlab/github-repo-template.git
-
 ```
-
-<br>
 
 ### Testando os scripts do GitHub Actions
 
 Você pode testar qualquer script contido no diretório ['GitHub Actions']('https://github.com/dexdevlab/github-repo-template/blob/main/templates/GitHub_Actions') colando o template
 desejado em ['.github/workflows'](https://github.com/dexdevlab/github-repo-template/blob/main/.github/workflows) e poderá ver seu funcionamento no próximo commit que você aplicar no
 seu repositório clonado.
-
-<br>
 
 ### Configuração mandatória para executar os scripts
 
@@ -83,15 +57,16 @@ Vá nas Configurações Gerais de Ações do repositório (`<https://github.com/
 
 2 - Marque 'Read and write permissions' em 'Workflow permissions'
 
-<hr>
-
-<a name="section-changelog">
-
 ## Notas de versão
 
-</a>
+### v2.1.0-240427
 
-<br>
+- Alteração do template do README
+- Atualização do README
+- Novos badges: Chromatic e Storybook
+- Alteração da categoria dos badges: Vercel, Netlify e Heroku
+- Adição de novo script do Github Actions: Chromatic
+- Alteração do nome da pasta dos scripts do Github Actions
 
 ### v2.0.0-240307
 
@@ -137,13 +112,7 @@ Vá nas Configurações Gerais de Ações do repositório (`<https://github.com/
 
 - Publicação do repositório.
 
-<hr>
-
-<a name="section-autores">
-
 ## Autores
-
-</a>
 
 <br>
 
@@ -151,13 +120,7 @@ Vá nas Configurações Gerais de Ações do repositório (`<https://github.com/
   <img alt= 'contrib' src="https://contrib.rocks/image?repo=dexdevlab/github-repo-template" />
 </a>
 
-<hr>
-
-<a name="section-contato">
-
 ## Contato
-
-</a>
 
 <br>
 
