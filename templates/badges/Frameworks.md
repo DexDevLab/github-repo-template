@@ -6,8 +6,6 @@
 <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/NGINX-%23009639.svg?logo=nginx&logoColor=white" height="22" alt="NGINX"/></a>
 <a href="https://angular.io"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white" height="22" alt="Angular"/></a>
 <a href="https://angularjs.org"><img src="https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white" height="22" alt="AngularJS"/></a>
-<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" height="22" alt="Bootstrap"/></a>
-<a href="https://chakra-ui.com"><img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?logo=chakraui&logoColor=white" height="22" alt="ChakraUI"/></a>
 <a href="https://jquery.com"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white" height="22" alt="JQuery"/></a>
 <a href="https://jwt.io"><img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens" height="22" alt="JWT"/></a>
 <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" height="22" alt="NextJS"/></a>

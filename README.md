@@ -59,6 +59,14 @@ Vá nas Configurações Gerais de Ações do repositório (`<https://github.com/
 
 ## Notas de versão
 
+<br>
+
+### v2.2.0-240427
+
+- Atualização do README
+- Novos badges: Vuejs e Material UI
+- Nova categoria de badge: Design Systems
+
 ### v2.1.0-240427
 
 - Alteração do template do README
