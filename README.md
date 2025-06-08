@@ -9,29 +9,29 @@
 
 <div align="center">
 
-<a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" height="22" alt="Markdown"/></a>
+<a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" height="22" alt="Markdown"/></a>&nbsp;
 <a href="https://docs.github.com/pt/actions"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" height="22" alt="GithubActions"/></a>
 <br>
-<a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg" height="22" alt="Maintenance-actively-developed"/></a>
-<a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/github-repo-template" height="22" alt="LastCommit"></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg" height="22" alt="Maintenance-actively-developed"/></a>&nbsp;
+<a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/github-repo-template" height="22" alt="LastCommit"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/github/v/release/dexdevlab/github-repo-template" height="22" alt="Version"/></a>
 <br>
-<a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/github-repo-template" height="22" alt="RepoSize"/></a>
-<a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/github-repo-template" height="22" alt="CodeSize"/></a>
+<a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/github-repo-template" height="22" alt="RepoSize"/></a>&nbsp;
+<a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/github-repo-template" height="22" alt="CodeSize"/></a>&nbsp;
 <a href="https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/github-repo-template?&" height="22" alt="License"></a>
 
 </div>
 
-## Conteúdo
-
 <br>
+
+## Conteúdo
 
 Este repositório tem como objetivo apresentar um template para criar facilmente a estrutura básica de qualquer repositório com o mínimo de documentação, organização e automação possíveis, respeitando as regras essenciais de linting e os critérios para manipular os dados de um repositório.
 Além disso, contém referências para badges, arquivos de licença e modelos de README, bem como scripts de automação do GitHub Actions para facilitar o trabalho do desenvolvedor durante a publicação e organização das versões e releases.
 
-## Instruções
-
 <br>
+
+## Instruções
 
 ### Utilizando o repositório como projeto para testar templates e scripts
 
@@ -57,9 +57,14 @@ Vá nas Configurações Gerais de Ações do repositório (`<https://github.com/
 
 2 - Marque 'Read and write permissions' em 'Workflow permissions'
 
+<br>
+
 ## Notas de versão
 
-<br>
+### v2.3.0-250608
+
+- Atualização do template de Readme
+- Script do Github Actions para implantação de conteúdo estático como página
 
 ### v2.2.0-240427
 
@@ -120,27 +125,15 @@ Vá nas Configurações Gerais de Ações do repositório (`<https://github.com/
 
 - Publicação do repositório.
 
-## Autores
-
 <br>
-
-<a href="https://github.com/dexdevlab/github-repo-template/graphs/contributors">
-  <img alt= 'contrib' src="https://contrib.rocks/image?repo=dexdevlab/github-repo-template" />
-</a>
 
 ## Contato
-
-<br>
 
 Se você gostou deste projeto, dê uma <a href="https://github.com/dexdevlab/github-repo-template" data-icon="octicon-star" aria-label="Star dexdevlab/github-repo-template on GitHub">estrela</a>. <br>
 Para contato, envie um email a: <a href="mailto:dex.houshi@hotmail.com">dex.houshi@hotmail.com</a>
 
-<hr>
-
-<a name="section-licenca">
+<br>
 
 ## Licença
-
-</a>
 
 Licenciado sob a [MIT License](https://github.com/dexdevlab/github-repo-template/blob/main/LICENSE).
